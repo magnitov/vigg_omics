@@ -1,0 +1,22 @@
+Assembly	platanus_k15_contig	platanus_k18_contig	platanus_k21_contig	platanus_k24_contig	platanus_k27_contig	platanus_k30_contig	platanus_k33_contig	platanus_k36_contig	platanus_k39_contig	platanus_k42_contig	platanus_k45_contig	platanus_k48_contig	platanus_k51_contig	platanus_k54_contig	platanus_k57_contig	platanus_k60_contig
+# contigs (>= 0 bp)	75	58	49	41	36	45	43	41	42	34	35	42	47	44	44	44
+# contigs (>= 1000 bp)	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1
+# contigs (>= 5000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+# contigs (>= 10000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+# contigs (>= 25000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+# contigs (>= 50000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total length (>= 0 bp)	8629	8512	8394	8253	8118	8355	8270	8123	8094	7722	7769	8092	8277	8180	8217	8194
+Total length (>= 1000 bp)	0	0	0	0	0	0	0	0	0	1033	1032	1032	1032	1032	1032	1032
+Total length (>= 5000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total length (>= 10000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total length (>= 25000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total length (>= 50000 bp)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+# contigs	75	58	49	41	36	45	43	41	42	34	35	42	47	44	44	44
+Largest contig	883	890	893	895	895	895	895	895	895	1033	1032	1032	1032	1032	1032	1032
+Total length	8629	8512	8394	8253	8118	8355	8270	8123	8094	7722	7769	8092	8277	8180	8217	8194
+GC (%)	44.20	44.20	43.98	44.14	44.06	43.97	44.05	43.97	44.22	44.07	44.06	43.88	43.66	44.10	44.08	44.17
+N50	303	354	357	360	363	357	335	335	327	327	327	298	256	276	256	235
+N75	134	179	179	182	257	182	231	257	238	238	238	185	164	164	164	164
+L50	10	9	9	9	9	9	9	9	9	7	7	8	9	9	9	9
+L75	21	17	17	16	15	17	16	16	16	14	14	17	19	19	19	19
+# N's per 100 kbp	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
