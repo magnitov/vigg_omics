@@ -5,7 +5,7 @@ WD_FOLDER=${HOME}/hdd20tb
 mkdir -p ${WD_FOLDER}/aligned
 
 # BS convert and index reference genome
-#${WD_FOLDER}/bismark-0.22.3/bismark_genome_preparation --verbose ${WD_FOLDER}/genome/
+${WD_FOLDER}/bismark-0.22.3/bismark_genome_preparation --verbose ${WD_FOLDER}/genome/
 # Align reads
 for REPLICA in 8cell_rep1 ICM_rep1 Epiblast_rep1
 do
